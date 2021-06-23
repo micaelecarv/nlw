@@ -21,12 +21,13 @@ Esse projeto será desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/spmZEjHjQiRzIsPaRcAAWm/Origin-Six-Discovery?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Status do Projeto 
+## 💻 Status do Projeto 
 
 <h4 align="justify"> 
 	🚧  Origin Six - Em construção...  🚧	
 </h4>
 
+<br>
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.

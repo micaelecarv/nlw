@@ -12,7 +12,6 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 
 <a href="#tecnologias">Tecnologias</a> • HTML, CSS e JavaScript
 	
-<br>
  
 <h4 align="justify"> 
 	🚧  Origin Six 🚀 Em construção...  🚧
@@ -20,8 +19,6 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 </h4>
 
 </p>
-
-<br>
 
 
 ## 🔖 Layout

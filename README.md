@@ -4,12 +4,13 @@
 
 Este repositório faz parte da Next Level Week Together, um evento online organizado pela RocketSeat, com muito código, desafios e networking. Ao qual estou fazendo parte da Trilha Origin, com o instrutor Mayk Brito.
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> • A Missão Origin tem como objetivo ensinar os fundamentos da programação web: HTML, CSS e JavaScript, de forma prática, com o desenvolvimento de uma aplicação do zero.
+<p align="justify">
+	
+<a href="#objetivo">Objetivo</a> • A Missão Origin tem como objetivo ensinar os fundamentos da programação web: HTML, CSS e JavaScript, de forma prática, com o desenvolvimento de uma aplicação do zero.
 
 <a href="#tecnologias">Tecnologias</a> • HTML, CSS e JavaScript
   
-<h4 align="center"> 
+<h4 align="justify"> 
 	🚧  Origin Six 🚀 Em construção...  🚧
 </h4>
 

@@ -7,7 +7,6 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 <p align="justify">
 	
 <a href="#objetivo">Objetivo</a> • A Missão Origin tem como objetivo ensinar os fundamentos da programação web: HTML, CSS e JavaScript, de forma prática, com o desenvolvimento de uma aplicação do zero.
-
 </p>
 	
 ## 🚀 Tecnologias
@@ -17,7 +16,6 @@ Esse projeto será desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-<br>
 
 ## 🔖 Layout
 

@@ -27,7 +27,8 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 
 Feito com ❤️ por Micaele Carvalho 👋🏽 Entre em contato!
 
-[![Twitter Badge](https:https://twitter.com/MicaelePereira/photo)](https://twitter.com/MicaelePereira) [![Linkedin Badge](https:https://media-exp3.licdn.com/dms/image/C4D03AQHCaZdOYJTaCQ/profile-displayphoto-shrink_800_800/0/1622806460272?e=1629936000&v=beta&t=Nh1_vGzOZ5ZEDTS6KBl8fjjR2ZL-eYznnybXN3mY2Ys://www.https://www.linkedin.com/in/micaelecarvalho/)](https://www.https://www.linkedin.com/in/micaelecarvalho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-micaelecarv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/micaelecarvalho/)](https://www.linkedin.com/in/micaelecarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-micaelecarv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaelecarv@gmail.com)](mailto:micaelecarv@gmail.com)
 
 
 

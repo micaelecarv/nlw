@@ -7,10 +7,13 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 <p align="justify">
 	
 <a href="#objetivo">Objetivo</a> • A Missão Origin tem como objetivo ensinar os fundamentos da programação web: HTML, CSS e JavaScript, de forma prática, com o desenvolvimento de uma aplicação do zero.
+	
+<br>
 
 <a href="#tecnologias">Tecnologias</a> • HTML, CSS e JavaScript
 	
-  
+<br>
+ 
 <h4 align="justify"> 
 	🚧  Origin Six 🚀 Em construção...  🚧
 	
@@ -18,13 +21,14 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 
 </p>
 
+<br>
 
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/spmZEjHjQiRzIsPaRcAAWm/Origin-Six-Discovery?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-
+<br>
 
 ## :memo: Licença
 

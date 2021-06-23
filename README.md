@@ -16,9 +16,18 @@ Este repositório faz parte da Next Level Week Together, um evento online organi
 
 </p>
 
-<img src="https://img.shields.io/static/v1?label=NLW&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
+Feito com ❤️ por Micaele Carvalho 👋🏽 Entre em contato!
+
+[![Twitter Badge](https:https://twitter.com/MicaelePereira/photo)](https://twitter.com/MicaelePereira) [![Linkedin Badge](https:https://media-exp3.licdn.com/dms/image/C4D03AQHCaZdOYJTaCQ/profile-displayphoto-shrink_800_800/0/1622806460272?e=1629936000&v=beta&t=Nh1_vGzOZ5ZEDTS6KBl8fjjR2ZL-eYznnybXN3mY2Ys://www.https://www.linkedin.com/in/micaelecarvalho/)](https://www.https://www.linkedin.com/in/micaelecarvalho/) 
 
 
 

@@ -25,16 +25,9 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
-### Autor
----
-
-<a href="https://github.com/micaelecarv">
- <img style="border-radius: 50%;" src="https://media-exp3.licdn.com/dms/image/C4D03AQHCaZdOYJTaCQ/profile-displayphoto-shrink_800_800/0/1622806460272?e=1629936000&v=beta&t=Nh1_vGzOZ5ZEDTS6KBl8fjjR2ZL-eYznnybXN3mY2Ys" width="100px;" alt=""/>
- <br />
- <sub><b>Micaele Carvalho</b></sub></a> <a href="https://media-exp3.licdn.com/dms/image/C4D03AQHCaZdOYJTaCQ/profile-displayphoto-shrink_800_800/0/1622806460272?e=1629936000&v=beta&t=Nh1_vGzOZ5ZEDTS6KBl8fjjR2ZL-eYznnybXN3mY2Ys" title="Origin Six">🚀</a>
 _ _ _
 
-Feito com ❤️ por Micaele Carvalho 👋🏽 Entre em contato!
+Feito com ❤️ por Micaele Carvalho sob orientação do Mayk Brito na NLW Together Origin 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-micaelecarv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/micaelecarvalho/)](https://www.linkedin.com/in/micaelecarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-micaelecarv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:micaelecarv@gmail.com)](mailto:micaelecarv@gmail.com)

@@ -23,7 +23,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Status do Projeto 
 
-<h4 align="center"> 
+<h4 align="justify"> 
 	🚧  Origin Six - Em construção...  🚧	
 </h4>
 
